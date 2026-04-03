@@ -1,11 +1,11 @@
 {
   "id": "ARG-007",
-  "title": "Financiera del Norte S.A. c/ Morales, Jorge s/ ejecución hipotecaria",
-  "court": "Juzgado Nacional en lo Civil N° 14",
-  "year": 2023,
+  "title": "ACUMAR y otros c/ Asentamiento Lamadrid (Bajo Autopista Pedro de Mendoza) s/ contencioso administrativo",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2019,
   "branch": "civil",
-  "text": "La entidad financiera ejecuta la garantía hipotecaria sobre el inmueble del deudor por mora en el pago de ocho cuotas consecutivas. El deudor opone la excepción de usura, alegando que la tasa de interés compensatorio pactada del 84% anual supera el límite razonable y configura un enriquecimiento sin causa del acreedor. La financiera aduce que la tasa fue libremente convenida en un contrato firmado por profesionales.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "La Autoridad de la Cuenca Matanza-Riachuelo solicitó el desalojo de un asentamiento informal ubicado sobre la ribera del Riachuelo, en el marco del Plan de Saneamiento integral ordenado judicialmente. Los ocupantes plantearon la afectación de su derecho constitucional a la vivienda digna y reclamaron participación efectiva en el proceso de relocalización, generando tensión entre el cumplimiento de la sentencia estructural ambiental y los derechos habitacionales de los afectados.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7200431",
   "annotation_slots": 3
 }
