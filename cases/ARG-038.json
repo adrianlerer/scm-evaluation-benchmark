@@ -1,11 +1,11 @@
 {
   "id": "ARG-038",
-  "title": "Fiscalía c/ Directorio de Empresa Farmacéutica Unida s/ asociación ilícita",
-  "court": "Cámara Federal de Casación Penal, Sala III",
-  "year": 2021,
+  "title": "Ministerio Público Fiscal s/ nulidad de sentencia – suspensión del proceso judicial – contribuyentes (FA22000XXX)",
+  "court": "Cámara Federal de Casación Penal",
+  "year": 2022,
   "branch": "criminal",
-  "text": "Los miembros del directorio de una empresa farmacéutica fueron procesados por asociación ilícita y coimas a funcionarios en el marco de una licitación de medicamentos. La defensa cuestiona el procesamiento de integrantes del directorio que no participaron en las reuniones donde se tomaron las decisiones incriminadas, alegando que la responsabilidad penal no puede extenderse por el solo hecho de pertenecer al órgano de administración.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "El tribunal de primera instancia declaró la suspensión de la acción penal contra imputados por infracciones tributarias, fundándola en la existencia de un procedimiento administrativo sancionatorio paralelo ante la AFIP por los mismos hechos. El Ministerio Público recurrió, sosteniendo que esa suspensión vulneraba el principio de legalidad procesal y la obligación del Estado de perseguir los delitos fiscales conforme al mandato legal, sin que la existencia del trámite administrativo sea causal válida de paralización del proceso penal.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://www.saij.gob.ar/nulidad-sentencia-sentencia-arbitraria-suspension-proceso-judicial-remision-expediente-contribuyentes-faz0021278-2022-07-05/123456789-872-1200-zsad-silautxet",
   "annotation_slots": 3
 }
