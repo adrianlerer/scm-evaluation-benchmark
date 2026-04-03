@@ -1,11 +1,11 @@
 {
   "id": "ARG-022",
-  "title": "Asociación por los Derechos Civiles c/ Ministerio del Interior s/ habeas data",
-  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala V",
-  "year": 2023,
+  "title": "Comunidad Mapuche Catalán y Confederación Mapuche Neuquina c/ Provincia del Neuquén s/ acción de inconstitucionalidad (derecho a consulta previa)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2021,
   "branch": "constitutional",
-  "text": "La asociación interpone acción de habeas data colectivo en nombre de ciudadanos cuyos datos biométricos fueron retenidos por el organismo de migraciones más allá del plazo previsto en la ley 25.326. El Estado sostiene que la retención se fundó en razones de seguridad pública y que los datos se encuentran encriptados. La asociación alega que no existe base legal para la retención extendida y que los datos deben ser suprimidos.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Comunidades y confederaciones mapuches impugnaron disposiciones normativas de la Provincia del Neuquén sobre aprovechamiento de recursos naturales en territorios que reivindicaban como hábitat ancestral. Argumentaron que las normas fueron dictadas sin respetar el derecho a la consulta previa, libre e informada que el Convenio N° 169 de la OIT y el art. 75 inc. 17 de la Constitución Nacional reconocen a los pueblos indígenas como garantía de participación en decisiones que afectan sus territorios.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7640891",
   "annotation_slots": 3
 }
