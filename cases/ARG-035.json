@@ -1,11 +1,11 @@
 {
   "id": "ARG-035",
-  "title": "Fiscalía c/ Comisaría 5a de San Justo s/ apremios ilegales",
-  "court": "Tribunal Oral en lo Criminal Federal de La Matanza",
-  "year": 2021,
+  "title": "Casal, Matías Eugenio s/ robo simple en grado de tentativa (Fallos: 328:3399 – derecho al recurso – casación integral)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2005,
   "branch": "criminal",
-  "text": "Cinco agentes policiales fueron condenados por apremios ilegales y tortura contra detenidos en sede policial. La defensa alega que la condena se basó exclusivamente en los testimonios de los propios detenidos, quienes tenían interés en declarar contra los imputados, sin prueba directa adicional. Los condenados sostienen que se aplicó una presunción de culpabilidad contraria a los estándares del proceso penal garantista.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un condenado por robo en grado de tentativa denunció que el tribunal de casación no revisó de modo integral la sentencia condenatoria, limitándose al control de su motivación formal. La Corte debía establecer si el alcance restrictivo de la casación en el sistema procesal argentino satisfacía la garantía del art. 8.2.h de la Convención Americana sobre Derechos Humanos, que exige al condenado la posibilidad de revisión amplia de los hechos y la prueba por un tribunal superior.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=2009201",
   "annotation_slots": 3
 }
