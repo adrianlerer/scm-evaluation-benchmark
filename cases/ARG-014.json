@@ -1,11 +1,11 @@
 {
   "id": "ARG-014",
-  "title": "Central de los Trabajadores Argentinos Autónoma c/ Ministerio de Trabajo Empleo y Seguridad Social s/ Ley de Asociaciones Sindicales",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2023,
+  "title": "Martínez, Roberto c/ Municipalidad de Rosario s/ ilegitimidad de cesantía",
+  "court": "Cámara de Apelaciones en lo Civil y Comercial de Rosario, Sala II",
+  "year": 2021,
   "branch": "administrative",
-  "text": "La CTA Autónoma impugnó un acto administrativo del Ministerio de Trabajo sobre el reconocimiento de su funcionamiento como central sindical. Durante la tramitación del recurso extraordinario ante la Corte, la Cámara de Apelaciones dictó una nueva decisión sobre el fondo. La causa planteaba si el pronunciamiento del máximo tribunal era inoficioso ante las circunstancias procesales sobrevinientes y qué ocurre con la eficacia de sentencias que deben ceñirse a las condiciones fácticas al momento de su dictado.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7854591",
+  "text": "El empleado municipal fue declarado cesante por abandono de cargo tras ausentarse durante quince días hábiles sin aviso. El agente sostiene que comunicó su ausencia por motivos de salud mediante certificado médico enviado por correo postal y que la cesantía se dictó sin sustanciar el sumario previo obligatorio según el Estatuto Municipal. La municipalidad alega no haber recibido ninguna comunicación y que el plazo de ausencia injustificada habilitaba la cesantía directa.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
