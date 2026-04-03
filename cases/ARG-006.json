@@ -1,11 +1,11 @@
 {
   "id": "ARG-006",
-  "title": "Telefónica Móviles Argentina S.A. – Telefónica Argentina S.A. c/ Municipalidad de Gral. Güemes s/ acción declarativa de inconstitucionalidad (antenas)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2019,
+  "title": "Rodríguez, María c/ Clínica Santa Rosa S.A. s/ daños y perjuicios (mala praxis)",
+  "court": "Cámara Nacional de Apelaciones en lo Civil, Sala J",
+  "year": 2021,
   "branch": "civil",
-  "text": "Dos empresas de telecomunicaciones impugnaron una ordenanza municipal del Partido de General Güemes, Provincia de Salta, que restringía la instalación de antenas de telefonía móvil en el ejido urbano. Alegaron que la regulación local invadía la esfera de competencia federal en materia de telecomunicaciones y era incompatible con las autorizaciones otorgadas por la Comisión Nacional de Comunicaciones, organismo del que dependía la habilitación para operar.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7204681",
+  "text": "La paciente sufrió una infección nosocomial grave tras una intervención de cirugía ambulatoria en la clínica demandada. La clínica sostiene que la infección es una complicación estadísticamente esperable y que se adoptaron todos los protocolos de esterilización vigentes. La actora argumenta que la clínica no pudo demostrar la ausencia de culpa en el contexto de una obligación de seguridad.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
