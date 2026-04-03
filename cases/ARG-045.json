@@ -1,11 +1,11 @@
 {
   "id": "ARG-045",
-  "title": "Gómez, Paula c/ Telecom Argentina S.A. s/ reducción salarial unilateral",
-  "court": "Cámara Nacional de Apelaciones del Trabajo, Sala IV",
+  "title": "Alarcón, Juan Esteban c/ Goncalvez, Néstor Abel y otro s/ accidente-acción civil (ART – nexo causal – responsabilidad civil laboral)",
+  "court": "Corte Suprema de Justicia de la Nación",
   "year": 2023,
   "branch": "labor",
-  "text": "La empresa redujo unilateralmente el salario de la actora en un 20% invocando la emergencia económica, sin sustanciar el procedimiento de crisis previsto en la ley de empleo ni contar con habilitación convencional. La trabajadora rechazó la modificación y se consideró despedida. La empresa alega que la reducción se encuadra en las facultades de organización empresarial y que la actora prestó conformidad tácita al no objetarla de inmediato.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "El conductor de un taxi sufrió incapacidad permanente en un accidente de tránsito durante la prestación de servicios laborales y demandó al empleador y a la ART con fundamento en el derecho civil. La Sala III CNAT condenó solidariamente a la aseguradora. Esta recurrió ante la Corte denunciando que la sentencia omitió precisar el nexo de causalidad entre el siniestro vial y un incumplimiento concreto de prevención atribuible a la aseguradora, atribuyendo responsabilidad de manera genérica.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7851571",
   "annotation_slots": 3
 }
