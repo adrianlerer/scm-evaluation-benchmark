@@ -1,11 +1,11 @@
 {
   "id": "ARG-040",
-  "title": "Nulidad de homologación de suspensión del juicio a prueba – constitucionalidad (SAIJ FA25000XXX)",
-  "court": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
-  "year": 2025,
+  "title": "Fiscalía c/ ex funcionarios de empresa pública s/ peculado",
+  "court": "Tribunal Oral en lo Criminal Federal N° 3",
+  "year": 2022,
   "branch": "criminal",
-  "text": "Se cuestionó la nulidad de la homologación judicial de un acuerdo de suspensión del juicio a prueba celebrado entre el imputado y la fiscalía, cuya procedencia había sido rechazada por el tribunal. El Ministerio Público planteó que la homologación de la suspensión incumplía los requisitos legales en punto a la determinación del daño y las condiciones impuestas al imputado, y que el juez de garantías había abdicado del control de legalidad que le corresponde al homologar un acuerdo con vicios sustanciales.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://www.saij.gob.ar/resultados.jsp?o=0&p=25&f=Total%7CFecha%5B50%2C1%5D%7CEstado+de+Vigencia%5B5%2C1%5D%7CTema%2FDerecho+procesal",
+  "text": "Tres ex funcionarios de una empresa estatal fueron condenados por peculado por haber utilizado fondos públicos para sufragar gastos de campaña electoral del partido oficialista durante su gestión. La defensa alega que los hechos estaban prescriptos al momento del dictado de la sentencia y que la ampliación del objeto procesal que motivó la acusación por peculado se realizó sin respetar el principio de congruencia entre la intimación original y la condena.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
