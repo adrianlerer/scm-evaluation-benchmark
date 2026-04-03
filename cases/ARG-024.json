@@ -1,11 +1,11 @@
 {
   "id": "ARG-024",
-  "title": "Confederación General del Trabajo c/ Estado Nacional s/ inconstitucionalidad",
-  "court": "Cámara Nacional de Apelaciones del Trabajo, Sala VI",
+  "title": "Recurso de hecho – control de convencionalidad – derecho a recurrir el fallo penal ante tribunal superior",
+  "court": "Corte Suprema de Justicia de la Nación",
   "year": 2022,
   "branch": "constitutional",
-  "text": "La CGT impugna la constitucionalidad de un decreto que estableció un período de paz social obligatorio durante el cual las organizaciones sindicales no podían convocar a huelga bajo pena de pérdida de personería gremial. La organización alega que el decreto restringe el derecho de huelga garantizado por el art. 14 bis CN sin habilitación legal previa. El Estado sostiene que la medida fue adoptada en ejercicio de facultades de emergencia.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un condenado por tribunal oral provincial cuestionó que el sistema recursivo provincial no garantizaba la revisión integral de la sentencia condenatoria ante un tribunal superior, en los términos del art. 8.2.h de la Convención Americana sobre Derechos Humanos. La Corte precisó la obligación de los tribunales provinciales de efectuar un control de convencionalidad para adecuar su sistema recursivo penal a los estándares del doble conforme, aun en ausencia de reforma legislativa expresa.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7813661",
   "annotation_slots": 3
 }
