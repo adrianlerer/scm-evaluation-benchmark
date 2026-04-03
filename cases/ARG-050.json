@@ -1,11 +1,11 @@
 {
   "id": "ARG-050",
-  "title": "Ministerio de Trabajo Empleo y Seguridad Social c/ Sindicato Petrolero de Córdoba s/ Ley de Asociaciones Sindicales (personería gremial provincial)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2023,
+  "title": "Ledesma, Ernesto c/ Fábrica Nacional de Láminas S.A. s/ enfermedad profesional",
+  "court": "Cámara Nacional de Apelaciones del Trabajo, Sala III",
+  "year": 2022,
   "branch": "labor",
-  "text": "El Sindicato Petrolero de Córdoba solicitó personería gremial para representar a los trabajadores del sector en el ámbito provincial, en disputa con el sindicato nacional preexistente. La controversia giraba en los requisitos de representatividad del art. 25 de la Ley N° 23.551 para el reconocimiento en ámbitos geográficos menores al del sindicato con personería vigente, y en las facultades del Ministerio de Trabajo para resolver conflictos intersindical de representación en el mismo sector.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7949331",
+  "text": "El operario desarrolló hipoacusia bilateral tras veinte años de exposición a ruido industrial en niveles superiores a los permitidos por la normativa de higiene y seguridad. La ART rechazó el siniestro alegando que la enfermedad no figura en el listado de enfermedades profesionales del decreto reglamentario. El trabajador acciona por la vía civil sosteniendo que el listado cerrado es inconstitucional por no proteger enfermedades causalmente vinculadas al trabajo.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
