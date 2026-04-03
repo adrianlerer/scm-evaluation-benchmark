@@ -1,11 +1,11 @@
 {
   "id": "ARG-009",
-  "title": "Importadora Sur S.A. c/ Compañía de Seguros La Meridional s/ cumplimiento de contrato",
-  "court": "Cámara Nacional de Apelaciones en lo Comercial, Sala C",
-  "year": 2023,
-  "branch": "commercial",
-  "text": "La importadora reclama la cobertura de siniestro por mercadería dañada durante el transporte marítimo. La aseguradora rechaza el siniestro invocando que el denunciante omitió declarar que la mercadería ya presentaba deterioros al momento de la contratación de la póliza, configurando reticencia dolosa. La importadora alega que los deterioros eran imperceptibles y no podían conocerse sin pericia especializada.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "title": "Bazán, Fernando c/ Ciudad Autónoma de Buenos Aires s/ amparo (derecho a la vivienda – competencia CAyT)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2019,
+  "branch": "civil",
+  "text": "Un habitante en situación de calle de la Ciudad Autónoma de Buenos Aires promovió acción de amparo reclamando la garantía del derecho constitucional a la vivienda digna y condiciones de vida adecuadas. Se planteó un conflicto sobre cuál tribunal era competente para resolver el amparo social en la Ciudad: la Cámara Nacional de Apelaciones en lo Civil o el fuero Contencioso Administrativo y Tributario local, lo que involucrava el alcance de la autonomía de la CABA para designar sus propios tribunales competentes.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7223201",
   "annotation_slots": 3
 }
