@@ -1,11 +1,11 @@
 {
   "id": "ARG-010",
-  "title": "Fernández, Miguel Ángel s/ infracción Ley 24.051 (competencia federal ambiental – residuos peligrosos)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2019,
+  "title": "Techint S.A. c/ Ministerio de Infraestructura s/ enriquecimiento sin causa",
+  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala V",
+  "year": 2021,
   "branch": "civil",
-  "text": "Se investigaron hechos que podrían constituir infracción a la Ley de Residuos Peligrosos N° 24.051, originándose un conflicto de competencia entre la justicia local y la federal. La determinación del fuero dependía de acreditar si el daño ambiental ocasionado tenía alcance interjurisdiccional o afectaba bienes de jurisdicción federal exclusiva, lo que implicaba delimitar constitucionalmente el poder de policía ambiental entre la Nación y las provincias.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7211971",
+  "text": "La empresa contratista reclama el reintegro de mayores costos incurridos en la ejecución de una obra pública que excedió ampliamente los plazos previstos por causas imputables al Estado. El Estado sostiene que el contrato preveía un sistema de redeterminación de precios que fue debidamente aplicado. La contratista argumenta que la redeterminación no cubrió la totalidad del mayor gasto y que el Estado se benefició injustamente de la diferencia.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
