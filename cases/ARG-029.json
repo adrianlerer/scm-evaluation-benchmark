@@ -1,11 +1,11 @@
 {
   "id": "ARG-029",
-  "title": "Defensor del Pueblo c/ Dirección General de Aduanas s/ acceso a información",
-  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala III",
-  "year": 2022,
+  "title": "Mazzeo, Julio Lilo y otros s/ recurso de casación e inconstitucionalidad (indultos presidenciales – crímenes de lesa humanidad)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2007,
   "branch": "constitutional",
-  "text": "El Defensor del Pueblo solicitó acceso a los registros de importaciones exentas de aranceles durante los últimos cinco años. La DGA denegó el acceso invocando reserva fiscal y secreto comercial de los importadores. El Defensor alega que la información estadística y agregada sobre exenciones es información pública y que su denegación compromete el control ciudadano del gasto tributario.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un grupo de imputados por delitos de lesa humanidad cometidos durante la última dictadura cuestionó la validez de los decretos presidenciales de indulto que les habían sido concedidos. La Corte analizó si los poderes del Ejecutivo Nacional para indultar alcanzan a las personas que, habiendo sido condenadas, habían cometido delitos de lesa humanidad, a la luz de las obligaciones internacionales de Argentina y de la jerarquía constitucional de los tratados de derechos humanos.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=2533961",
   "annotation_slots": 3
 }
