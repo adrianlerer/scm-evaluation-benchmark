@@ -1,11 +1,11 @@
 {
   "id": "ARG-005",
-  "title": "Constructora Andina S.A. c/ Municipalidad de San Isidro s/ cobro de indemnización",
-  "court": "Cámara de Apelaciones en lo Contencioso Administrativo y Tributario de la CABA, Sala II",
-  "year": 2023,
+  "title": "Rodríguez Pereyra, Jorge Luis y otra c/ Ejército Argentino s/ daños y perjuicios (inconstitucionalidad tope indemnizatorio)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2012,
   "branch": "civil",
-  "text": "La empresa constructora reclama indemnización por la rescisión unilateral de un contrato de obra pública dispuesta por el municipio. El municipio sostiene que la rescisión se fundó en incumplimiento grave del cronograma. La empresa alega que los incumplimientos se debieron a demoras en la provisión de materiales por parte del propio municipio, lo que constituyó un hecho del acreedor que imposibilitó la ejecución en tiempo y forma.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un conscripto sufrió graves secuelas físicas durante el servicio militar obligatorio y demandó al Estado Nacional por daños y perjuicios. Planteó la inconstitucionalidad del tope indemnizatorio previsto en la ley especial militar, sosteniendo que el límite legal impedía la reparación plena del daño causado e importaba una vulneración de la garantía constitucional de la propiedad y del principio de no dañar a otro.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=3696871",
   "annotation_slots": 3
 }
