@@ -1,11 +1,11 @@
 {
   "id": "ARG-001",
-  "title": "Cardozo c/ Edificadora del Norte S.A. s/ daños y perjuicios",
-  "court": "Cámara Nacional de Apelaciones en lo Civil, Sala H",
-  "year": 2022,
+  "title": "Majul, Julio Jesús c/ Municipalidad de Pueblo General Belgrano y otros s/ acción de amparo ambiental",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2019,
   "branch": "civil",
-  "text": "La actora demanda daños y perjuicios contra la empresa constructora por vicios ocultos detectados tres años después de la entrega del inmueble. La demandada invoca la cláusula contractual que limitaba su responsabilidad a seis meses post-escrituración, argumentando que fue libremente pactada por ambas partes. La compradora sostiene que la cláusula es abusiva y contraria a la buena fe por haber ocultado defectos preexistentes durante la negociación.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un particular promovió acción de amparo ambiental contra el Municipio de Pueblo General Belgrano y una empresa privada, denunciando que obras de relleno y construcción ejecutadas sobre una zona de humedales de las márgenes del Río Gualeguaychú afectaban el ecosistema y ponían en riesgo el ambiente. El actor solicitó la paralización inmediata de las obras y la recomposición del ambiente dañado, invocando la Ley General del Ambiente N° 25.675.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7204351",
   "annotation_slots": 3
 }
