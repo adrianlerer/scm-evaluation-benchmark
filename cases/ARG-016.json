@@ -1,11 +1,11 @@
 {
   "id": "ARG-016",
-  "title": "Comunidad Indígena del Pueblo Wichi Hoktek T'Oi c/ Secretaría de Medio Ambiente y Desarrollo Sustentable s/ amparo",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2023,
+  "title": "Empresa Distribuidora Sur c/ ENRE s/ recurso de alzada contra multa",
+  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala IV",
+  "year": 2022,
   "branch": "administrative",
-  "text": "Una comunidad indígena del pueblo Wichi promovió acción de amparo contra la Secretaría de Medio Ambiente y Desarrollo Sustentable, impugnando la autorización administrativa para el desmonte de terrenos que conformaban su hábitat ancestral. Alegaron que el acto administrativo que habilitaba la explotación forestal fue dictado sin la participación previa de la comunidad afectada, en violación del Convenio N° 169 de la OIT y de la protección constitucional de los territorios indígenas.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=1208731",
+  "text": "El ENRE aplicó una multa a la distribuidora por cortes de suministro eléctrico durante una tormenta, sin considerar que los cortes se debieron a la caída de árboles sobre las líneas por vientos de más de 100 km/h. La distribuidora alega fuerza mayor y sostiene que la multa es desproporcionada respecto de la conducta que se le imputa. El ENRE argumenta que el Reglamento de Calidad impone estándares objetivos de continuidad independientes de las causas del corte.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
