@@ -1,11 +1,11 @@
 {
   "id": "ARG-021",
-  "title": "Fernández, Ana c/ Estado Nacional s/ acción declarativa de inconstitucionalidad",
+  "title": "Rizzo, Jorge Washington y otro c/ Poder Ejecutivo Nacional s/ acción de amparo (integración Consejo de la Magistratura – Ley 26.855)",
   "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2022,
+  "year": 2013,
   "branch": "constitutional",
-  "text": "La actora impugna la constitucionalidad de un decreto de necesidad y urgencia que redujo haberes previsionales sin ley del Congreso, argumentando que la materia previsional está excluida del ámbito de los DNU por el art. 99 inc. 3 CN. El Estado sostiene que la medida respondió a una emergencia económica que justificaba la actuación del Ejecutivo. La Corte debe determinar si el DNU superó los límites constitucionales de la habilitación de urgencia.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.csjn.gov.ar",
+  "text": "El actor impugnó la Ley N° 26.855 que reformaba la composición del Consejo de la Magistratura estableciendo que los miembros del estamento de abogados y jueces serían elegidos por voto popular en elecciones generales. Sostuvo que la norma desvirtuaba el equilibrio que el art. 114 de la Constitución Nacional exige entre representantes de los poderes políticos y representantes de los estamentos técnicos, afectando la independencia judicial y el control de la magistratura.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=3904411",
   "annotation_slots": 3
 }
