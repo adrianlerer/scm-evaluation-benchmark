@@ -1,11 +1,11 @@
 {
   "id": "ARG-018",
-  "title": "O. A. L. c/ Swiss Medical ART s/ amparo (conflicto de competencia – ART – justicia laboral vs. federal)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2023,
+  "title": "Farmacéutica Vitalis S.A. c/ Ministerio de Salud s/ habilitación de medicamento",
+  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala I",
+  "year": 2021,
   "branch": "administrative",
-  "text": "Un trabajador damnificado en un accidente laboral promovió acción de amparo contra la ART ante el fuero laboral, reclamando prestaciones en especie. La aseguradora cuestionó esa competencia, sosteniendo que el amparo debía tramitar ante la justicia federal por estar la relación regida por la Ley N° 24.557. Ambos fueros declinaron entender en el asunto, originándose un conflicto negativo de competencia que la Corte debía resolver para determinar qué tribunal resultaba habilitado.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7962441",
+  "text": "La empresa solicita la habilitación de un medicamento genérico cuyo principio activo ya cuenta con aprobación en la Unión Europea. El Ministerio deniega la habilitación exigiendo la presentación de estudios clínicos completos en población argentina, requisito que no figura en la norma reglamentaria vigente sino en una circular interna posterior a la solicitud. La empresa alega que el requisito adicional viola el principio de legalidad y genera un trato discriminatorio respecto de empresas que presentaron solicitudes anteriores.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
