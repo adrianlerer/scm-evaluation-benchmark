@@ -1,11 +1,11 @@
 {
   "id": "ARG-011",
-  "title": "González Victorica, María Inés c/ Universidad de Buenos Aires s/ nulidad de acto administrativo",
-  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala III",
+  "title": "López, Carlos c/ AFIP s/ impugnación de acto administrativo",
+  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala I",
   "year": 2022,
   "branch": "administrative",
-  "text": "Una docente universitaria impugnó el acto administrativo por el cual la Universidad de Buenos Aires la excluyó de un concurso de oposición y antecedentes para la cobertura de un cargo de profesora regular. La actora alegó que el acto impugnado careció de la debida motivación exigible a los actos administrativos de alcance particular que afectan derechos subjetivos y que el procedimiento de selección violó el reglamento concursal de la institución.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://www.saij.gob.ar/camara-nacional-apelaciones-contencioso-administrativo-federal-capital-federal-gonzalez-victorica-maria-ines-universidad-buenos-aires-fa19000099-2019-03-26/123456789-990-0001-9fsoterced",
+  "text": "La AFIP determinó de oficio una deuda impositiva y aplicó multa por defraudación fiscal sin sustanciar el procedimiento sumarial previsto en la Ley 11.683. El contribuyente impugna el acto alegando que se lo privó de la posibilidad de ofrecer descargo y prueba antes del dictado de la resolución. El organismo sostiene que la determinación se fundó en información cruzada con terceros que hacía innecesaria la producción de prueba adicional.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
