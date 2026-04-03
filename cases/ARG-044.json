@@ -1,11 +1,11 @@
 {
   "id": "ARG-044",
-  "title": "Ramírez, Jorge c/ Petroleum Argentina S.A. s/ despido y daño moral",
-  "court": "Cámara Nacional de Apelaciones del Trabajo, Sala II",
-  "year": 2022,
+  "title": "Muñoz, Stella Maris p/si y en rep. de sus hijas c/ Industrias Cerámicas Lourdes SA y otro s/ accidente-acción civil (responsabilidad ART – mala praxis médica)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2023,
   "branch": "labor",
-  "text": "El gerente de planta fue despedido sin causa invocando reestructuración empresarial. El trabajador alega que el despido fue discriminatorio por haber denunciado irregularidades ambientales ante la autoridad regulatoria y solicita además daño moral. La empresa sostiene que la reestructuración fue genuina y que el despido sin causa es una facultad del empleador que no requiere más fundamento que el pago de la indemnización legal.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un trabajador derivado a cirugía por cuenta y orden de la ART para reparar una lesión laboral en el manguito rotador falleció por hipoxia cerebral durante la extubación postoperatoria. Los tribunales inferiores eximieron de responsabilidad a la ART, calificando el fallecimiento como consecuencia de un hecho de tercero. Las actoras cuestionaron esa eximición, alegando que la ART contrató y pagó la prestación quirúrgica cuya ejecución irregular causó la muerte, comprometiendo su responsabilidad civil.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7828401",
   "annotation_slots": 3
 }
