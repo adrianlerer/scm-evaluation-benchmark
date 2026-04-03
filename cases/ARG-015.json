@@ -1,11 +1,11 @@
 {
   "id": "ARG-015",
-  "title": "Colegio de Arquitectos c/ Gobierno de la Ciudad s/ impugnación de decreto",
-  "court": "Cámara de Apelaciones en lo Contencioso Administrativo y Tributario de la CABA, Sala I",
+  "title": "ENRE c/ Empresa X s/ incumplimiento de normas de servicio público (regulación eléctrica – acto sancionatorio)",
+  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala II",
   "year": 2023,
   "branch": "administrative",
-  "text": "El Colegio de Arquitectos impugna un decreto del Poder Ejecutivo de la CABA que habilitó a ingenieros a firmar proyectos de obra anteriormente reservados a arquitectos, sin contar con ley formal que modificara las incumbencias profesionales. El Gobierno sostiene que el decreto se fundó en atribuciones reglamentarias propias del Ejecutivo. El Colegio argumenta que la regulación de incumbencias profesionales es materia de reserva legal y no puede delegarse en la administración.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "El Ente Nacional Regulador de la Electricidad (ENRE) aplicó una sanción pecuniaria a una distribuidora eléctrica por incumplimiento de estándares de calidad del servicio. La empresa distribuidora impugnó el acto sancionatorio ante la Cámara, alegando que el ENRE actuó fuera del marco regulatorio habilitante, que el procedimiento sumarial careció de las garantías del debido proceso y que la cuantía de la sanción resultaba desproporcionada respecto de los incumplimientos acreditados.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://www.saij.gob.ar/camara-nacional-apelaciones-contencioso-administrativo-federal-capital-enre-empresa-distribucion-electrica-fa21000251-2021-05-14/123456789-152-0001-1fsoterced",
   "annotation_slots": 3
 }
