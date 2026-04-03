@@ -1,11 +1,11 @@
 {
   "id": "ARG-030",
-  "title": "Empresa de Telecomunicaciones S.A. c/ ENACOM s/ inconstitucionalidad de regulación",
+  "title": "Halabi, Ernesto c/ Poder Ejecutivo Nacional – Ley 25.873 s/ amparo (derechos de incidencia colectiva – interceptación de comunicaciones)",
   "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2023,
+  "year": 2005,
   "branch": "constitutional",
-  "text": "La empresa impugna la constitucionalidad de una resolución del ENACOM que fijó tarifas máximas para el servicio de internet de banda ancha, argumentando que la regulación tarifaria requiere ley formal del Congreso y que la delegación normativa al organismo regulador carece de las pautas suficientes exigidas por el art. 76 CN. El ENACOM sostiene que actúa dentro de las facultades delegadas por la Ley de Telecomunicaciones.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.csjn.gov.ar",
+  "text": "Un abogado promovió acción de amparo individual contra la Ley N° 25.873 y el Decreto N° 1563/04 que obligaban a las prestadoras de servicios de telecomunicaciones a capturar y conservar el tráfico de comunicaciones durante diez años. El actor sostuvo que las normas vulneraban el derecho a la intimidad, la privacidad de las comunicaciones y el secreto profesional. La Corte debía determinar además si la pretensión tenía alcance colectivo y si el actor tenía legitimación para actuar en nombre de todos los usuarios del sistema.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=3213361",
   "annotation_slots": 3
 }
