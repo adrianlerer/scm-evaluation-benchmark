@@ -1,11 +1,11 @@
 {
   "id": "ARG-028",
-  "title": "Ekmedjian, Miguel Ángel c/ Sofovich, Gerardo y otros s/ recurso de hecho (derecho de rectificación y respuesta)",
+  "title": "Asociación de Magistrados c/ Consejo de la Magistratura s/ impugnación de sanción",
   "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2005,
+  "year": 2023,
   "branch": "constitutional",
-  "text": "Un periodista promovió amparo reclamando el ejercicio del derecho de rectificación o respuesta consagrado en el art. 14.1 de la Convención Americana sobre Derechos Humanos, luego de que un programa televisivo difundiera expresiones que consideraba ofensivas a sus creencias religiosas. La Corte debía resolver si ese derecho era directamente operativo en el orden interno sin necesidad de reglamentación legislativa y si los tratados internacionales prevalecen sobre las leyes internas.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=510501",
+  "text": "El Consejo de la Magistratura sancionó con suspensión de funciones a un juez federal por dictar medidas cautelares que la mayoría del Consejo consideró políticamente motivadas. La sanción se adoptó sin que se hubiera dictado sentencia condenatoria previa. El magistrado sancionado alega que la medida viola su inamovilidad y que la evaluación del contenido de sus resoluciones judiciales constituye una interferencia indebida del Consejo en el ejercicio de la función jurisdiccional.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.csjn.gov.ar",
   "annotation_slots": 3
 }
