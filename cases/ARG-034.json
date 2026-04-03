@@ -1,11 +1,11 @@
 {
   "id": "ARG-034",
-  "title": "Fiscalía c/ Rodríguez, Patricia s/ lavado de activos",
-  "court": "Cámara Federal de Casación Penal, Sala I",
-  "year": 2022,
+  "title": "Gramajo, Marcelo Eduardo s/ robo en poblado y en banda (pena de reclusión accesoria – proporcionalidad – art. 52 CP)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2006,
   "branch": "criminal",
-  "text": "La imputada fue condenada por lavado de activos provenientes de evasión fiscal. La defensa cuestiona la condena argumentando que al momento de los hechos la jurisprudencia dominante no consideraba a la evasión fiscal un delito precedente del lavado, siendo la aplicación del criterio actual una extensión analógica prohibida del tipo penal. La fiscalía sostiene que la norma siempre fue clara respecto de los delitos precedentes admisibles.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un imputado multireincidente fue condenado a pena de reclusión accesoria por tiempo indeterminado conforme al art. 52 del Código Penal. Su defensa planteó la inconstitucionalidad de esa medida, sosteniendo que la pena de duración indeterminada fundada en la peligrosidad presunta del condenado viola el principio de culpabilidad por el hecho, la prohibición de pena cruel e inhumana del art. 18 CN y el principio de proporcionalidad de la sanción penal.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=2136691",
   "annotation_slots": 3
 }
