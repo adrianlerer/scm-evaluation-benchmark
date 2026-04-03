@@ -1,11 +1,11 @@
 {
   "id": "ARG-031",
-  "title": "Fiscalía c/ Scarpatti, Norberto s/ administración fraudulenta agravada",
-  "court": "Tribunal Oral en lo Criminal Federal N° 2",
-  "year": 2022,
+  "title": "García, Aníbal Horacio s/ causa N° 11.429 (ne bis in idem – delitos de lesa humanidad)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2020,
   "branch": "criminal",
-  "text": "El imputado fue condenado a seis años de prisión por administración fraudulenta de fondos públicos. La defensa impugna la condena alegando que la conducta fue tipificada aplicando un criterio jurisprudencial novedoso que no existía al momento de los hechos, lo que importa una aplicación retroactiva in malam partem de la norma penal. El tribunal rechazó el planteo sosteniendo que la conducta siempre estuvo tipificada en el Código Penal.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Un imputado por delitos cometidos durante la última dictadura cívico-militar planteó la garantía del ne bis in idem, alegando que había sido sometido a un segundo proceso por hechos sustancialmente idénticos a los de un proceso anterior ya concluido. La defensa argumentaba que la imprescriptibilidad y la gravedad de los delitos de lesa humanidad no habilitan excepciones irrestrictas al principio constitucional de prohibición del doble juzgamiento, reconocido en el art. 8.4 de la CADH.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7439221",
   "annotation_slots": 3
 }
