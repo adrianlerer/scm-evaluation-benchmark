@@ -1,11 +1,11 @@
 {
   "id": "ARG-032",
-  "title": "Acosta, Alejandro Esteban s/ infracción art. 14 párr. 2° Ley 23.737 (art. 19 CN – tenencia para consumo)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2009,
+  "title": "Fiscalía c/ Empresa Distribuidora Norte S.A. s/ delito tributario",
+  "court": "Cámara Federal de Casación Penal, Sala II",
+  "year": 2023,
   "branch": "criminal",
-  "text": "Un imputado fue procesado por tenencia de estupefacientes para consumo personal conforme al art. 14 párr. 2° de la Ley N° 23.737. La defensa cuestionó la constitucionalidad de ese precepto, argumentando que la penalización de conductas que se proyectan únicamente sobre el propio sujeto vulnera la cláusula de privacidad del art. 19 de la Constitución Nacional, que veda la interferencia estatal en las acciones privadas que no afectan a terceros ni al orden público.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=3209091",
+  "text": "La empresa fue imputada por evasión fiscal agravada basándose en una pericia contable que fue admitida como prueba a pesar de haber sido producida sin dar vista previa a la defensa. La defensa sostiene que la incorporación de la pericia sin posibilidad de contralor viola el derecho a la defensa y el principio de contradicción. El tribunal de juicio rechazó la nulidad por considerar que la defensa tuvo oportunidad de impugnar la pericia durante el debate oral.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
