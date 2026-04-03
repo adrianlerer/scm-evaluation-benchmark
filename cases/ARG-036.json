@@ -1,11 +1,11 @@
 {
   "id": "ARG-036",
-  "title": "Fiscalía c/ Dirección Nacional de Migraciones s/ habeas corpus colectivo",
-  "court": "Cámara Federal de Apelaciones de Rosario",
-  "year": 2023,
+  "title": "Di Nunzio, Beatriz Francisca s/ recurso de hecho (juez natural – subrogaciones – imparcialidad)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2005,
   "branch": "criminal",
-  "text": "Un grupo de migrantes solicitó habeas corpus colectivo cuestionando su detención en un centro de alojamiento temporal por un período que excedía el máximo legal de noventa días. El organismo de migraciones sostuvo que la detención se prolongó por la imposibilidad de ejecutar las órdenes de expulsión. La cámara debía determinar si la detención administrativa prolongada sin control judicial periódico era compatible con las garantías constitucionales.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "Una imputada en causa penal cuestionó la actuación de magistrados suplentes designados por subrogación, alegando vulneración de la garantía del juez natural del art. 18 de la Constitución Nacional. Planteó que el sistema de subrogaciones utilizado en la jurisdicción interviniente no reunía los requisitos constitucionales de imparcialidad e inamovilidad del juez, asimilándose en los hechos a la creación de un tribunal especial para la causa.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=1543351",
   "annotation_slots": 3
 }
