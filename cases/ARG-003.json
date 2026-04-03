@@ -1,11 +1,11 @@
 {
   "id": "ARG-003",
-  "title": "La Pampa, Provincia de c/ Mendoza, Provincia de s/ uso de aguas (Río Atuel)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2018,
+  "title": "Sucesión Villalba c/ Banco Provincia s/ nulidad de acto jurídico",
+  "court": "Cámara Nacional de Apelaciones en lo Civil, Sala C",
+  "year": 2023,
   "branch": "civil",
-  "text": "La Provincia de La Pampa reclamó en instancia originaria el reconocimiento de su derecho al uso equitativo de las aguas del Río Atuel, cuyo caudal había sido drásticamente reducido por las obras de regulación ejecutadas en la Provincia de Mendoza. La Pampa alegó que la reducción unilateral del caudal causaba daños ecológicos y económicos irreparables en el oeste pampeano y que el carácter interprovincial del río imponía un deber de negociación y de reparto equitativo de sus aguas.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7152371",
+  "text": "Los herederos del causante impugnan la cesión de derechos hereditarios firmada por su padre días antes de su fallecimiento, alegando que el cedente se encontraba en estado de demencia senil y que el cesionario —su contador— se aprovechó de esa situación para adquirir bienes por un valor irrisorio. El banco, que financió la operación, sostiene que actuó de buena fe sobre la base de la documentación presentada.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
