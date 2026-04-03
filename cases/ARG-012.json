@@ -1,11 +1,11 @@
 {
   "id": "ARG-012",
-  "title": "Padec c/ Swiss Medical S.A. s/ nulidad de cláusulas contractuales (usuarios – acción colectiva)",
-  "court": "Corte Suprema de Justicia de la Nación",
-  "year": 2012,
+  "title": "Farmacéutica Gemina S.A. c/ ANMAT s/ suspensión de autorización",
+  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala III",
+  "year": 2023,
   "branch": "administrative",
-  "text": "La asociación Prevención, Asesoramiento y Defensa del Consumidor (PADEC) promovió acción colectiva contra Swiss Medical S.A. cuestionando cláusulas del contrato de medicina prepaga que permitían aumentos de cuotas sin autorización de los afiliados. La demanda planteaba la legitimación de las asociaciones de consumidores para iniciar procesos colectivos en nombre de sus representados y los requisitos de identificación del colectivo afectado.",
-  "source": "Fuente pública — SAIJ / CSJN / dominio público",
-  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=3840211",
+  "text": "La ANMAT suspendió preventivamente la autorización de comercialización de un medicamento sin sustanciar procedimiento previo, invocando urgencia sanitaria. La empresa demandante sostiene que no existía situación de urgencia documentada y que la suspensión, al carecer de motivación suficiente, configura un acto nulo de nulidad absoluta. El organismo argumenta que sus facultades preventivas son discrecionales y no requieren procedimiento previo.",
+  "source": "SAIJ / CSJN — dominio público",
+  "source_url": "https://www.saij.gob.ar",
   "annotation_slots": 3
 }
