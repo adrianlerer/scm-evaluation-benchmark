@@ -1,11 +1,11 @@
 {
   "id": "ARG-025",
-  "title": "Romero, Daniela c/ Banco Central s/ protección de datos personales",
-  "court": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala IV",
-  "year": 2023,
+  "title": "Miras, Ramón Alfredo s/ homicidio culposo (prescripción penal provincial – inconstitucionalidad – art. 75 inc. 12 CN)",
+  "court": "Corte Suprema de Justicia de la Nación",
+  "year": 2020,
   "branch": "constitutional",
-  "text": "La actora solicita la eliminación de su nombre de la Central de Deudores del Banco Central, donde figura como deudora morosa por una deuda que fue prescripta judicialmente hace tres años. El BCRA sostiene que la información histórica es relevante para el sistema financiero y que su norma reglamentaria habilita la retención por diez años. La actora alega que la retención de datos de una deuda legalmente extinguida viola su derecho a la privacidad y al honor.",
-  "source": "SAIJ / CSJN — dominio público",
-  "source_url": "https://www.saij.gob.ar",
+  "text": "En una causa penal provincial la defensa cuestionó la constitucionalidad de una ley local que establecía plazos de prescripción distintos a los del Código Penal nacional. La Corte analizó si las provincias tienen facultades para regular causas de extinción de la acción penal por fuera de lo establecido por el Congreso Nacional, en el marco del reparto de competencias del art. 75 inc. 12 de la Constitución y la doctrina elaborada en el precedente 'Filcrosa'.",
+  "source": "Fuente pública — SAIJ / CSJN / dominio público",
+  "source_url": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=7480251",
   "annotation_slots": 3
 }
